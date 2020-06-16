@@ -36,7 +36,7 @@
         <a href="" class="navbar-brand " >Insta-feed</a>
         <ul class=" nav justify-content-end">
             <li class="nav-item" text-white>
-                <a href="studentFeeback.php" class="nav-link text-white">Student Feedback</a>
+                <a href="studentFeedback.php" class="nav-link text-white">Student Feedback</a>
             </li>
             <li class="nav-item" text-white>
                 <a href="./lecturer.php" class="nav-link text-white">Add a lecture</a>
