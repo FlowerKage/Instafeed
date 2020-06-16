@@ -62,7 +62,7 @@
     <form action="" method="POST">
         <p class="text-danger text-center"></p>
         <div class="form-group ">
-            <label for="loginID" class="">Login ID </label>
+            <label for="loginID" class="">Login ID: </label>
             <input type="text" id="loginID" class="form-control" name="loginID">
         </div>
         <div class="form-group">
